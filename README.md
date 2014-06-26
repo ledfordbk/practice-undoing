@@ -8,7 +8,7 @@ Sample repository that allows us to explore the process of shortcuts and reset c
 ## Objectives
 * Shortcuts
 * Reset flavors
-*Staging by hunk
+* Staging by hunk
 
 #Notes / Resources
 * git commit -am "message"
